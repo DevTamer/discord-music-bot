@@ -1,0 +1,17 @@
+.env
+node_modules/
+temp_*
+*.bak
+cookies.txt
+youtube_cookies.json
+.ytdlp-last-update
+
+# Binaries (install yourself, see README)
+ffmpeg.exe
+yt-dlp.exe
+
+# Local / generated
+.claude/
+*-player-script.js
+*.webm
+images.jpg
